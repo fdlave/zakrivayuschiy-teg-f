@@ -223,7 +223,6 @@
   padding-inline: 17px;
   line-height: 90%;
   border: var(--border);
-  transition: all 0.5s;
 }
 
 .button__text {
