@@ -128,7 +128,6 @@
   font-family: var(--accent-font);
   text-shadow: 0 1px var(--label-shadow), -1px 0 var(--label-shadow),
     1px 0 var(--label-shadow), 0 -1px var(--label-shadow);
-  z-index: 1;
 }
 
 @supports (-webkit-text-stroke: 1px var(--text-stroke-color)) {
