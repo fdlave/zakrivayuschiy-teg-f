@@ -145,12 +145,12 @@
   }
 }
 
-.text-container { 
-  display: flex; 
-  flex-direction: column; 
-  padding: 25px 25px; 
-  gap: 25px; 
-} 
+.text-container {
+  display: flex;
+  flex-direction: column;
+  padding: 25px 25px;
+  gap: 25px;
+}
 
 .text-block {
   display: flex;
@@ -310,7 +310,6 @@
 }
 
 @media (width <= 375px) {
-
   .header-title {
     min-inline-size: 375px;
   }
